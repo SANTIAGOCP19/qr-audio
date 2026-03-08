@@ -1,0 +1,36 @@
+body{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.card{
+    background:white;
+    padding:40px;
+    border-radius:15px;
+    text-align:center;
+    box-shadow:0px 10px 25px rgba(0,0,0,0.3);
+    max-width:400px;
+}
+
+h1{
+    color:#1e3c72;
+}
+
+h2{
+    margin-top:-10px;
+    color:#444;
+}
+
+p{
+    color:#666;
+    margin-bottom:25px;
+}
+
+audio{
+    width:100%;
+}
